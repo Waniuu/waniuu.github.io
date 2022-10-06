@@ -1,0 +1,195 @@
+@font-face {
+    font-family: "StardewValleyALLCAPS.ttf";
+    src: url(fonts/StardewValleyALLCAPS.ttf) format('truetype');
+}
+@font-face {
+    font-family: "StardewValley.ttf";
+    src: url(fonts/StardewValley.ttf) format('truetype');
+}
+body {
+    background-color: rgb(78, 43, 43);
+    background: url(pliczek.jpg) No-repeat fixed center center / cover;
+    background-size: 1880px 940px;
+}
+.header {
+    font-family: "StardewValleyALLCAPS.ttf";
+    font-size: 450%;
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    color: rgb(226, 171, 52);
+    background-color:  rgba(0, 0, 0, 0.5);
+}
+.article {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article1 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article2 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article3 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article4 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article5 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article6 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article7 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article8 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article9 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article10 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float:left;
+}
+.article11 {
+    font-family: "StardewValley.ttf";
+    color:black;
+    background-color:  rgba(0, 0, 0, 0.4);
+    height: 34px;
+    font-size: 28px;
+    float: left;
+}
+.main {
+    border: 1px solid #A7D7F9;
+    clear: both;
+    background-color: rgba(209,248,255,0.67);
+    width: 96%;
+    height: 800px;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+.nav {
+    float: left;
+}
+.nav2 {
+    float:right;
+}
+.nav4 {
+    clear: both;
+    font-family: "StardewValley.ttf";
+    text-align: center;
+    color:black;
+    padding-left: 15%;
+    padding-right:  15%;
+    font-size: 30px;
+}
+.footer {
+    color:white;
+    float: left;
+    clear:both;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width:  12%;
+    height: 40px;
+}
+.footer1 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width: 88%;
+    height: 40px;
+}
+.footer2 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width:  7%;
+    height: 30px;
+    padding-bottom: 26px;
+}
+.footer3 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width: 93%;
+    padding-bottom: 0px;
+}
+#logo a{
+    color: white;
+}
+a {
+    text-decoration: none;
+    color:black;
+    padding-left: 5px;
+}
+.line {
+    float:left;
+}
+.strona {
+    text-decoration: none;
+}
+#img {
+    margin-left: 33%;
+    margin-right: 33%;
+}

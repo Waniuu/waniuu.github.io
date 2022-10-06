@@ -1,0 +1,157 @@
+@font-face {
+    font-family: "StardewValleyALLCAPS.ttf";
+    src: url(fonts/StardewValleyALLCAPS.ttf) format('truetype');
+}
+@font-face {
+    font-family: "StardewValley.ttf";
+    src: url(fonts/StardewValley.ttf) format('truetype');
+}
+
+.header {
+    font-family: "StardewValleyALLCAPS.ttf";
+    font-size: 450%;
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    color: rgb(226, 171, 52);
+    background-color:  rgba(0, 0, 0, 0.5);
+}   
+body {
+    background-color: rgb(78, 43, 43);
+    background: url(pliczek.jpg) No-repeat fixed center center / cover;
+    background-size: 1880px 940px;
+}
+.main {
+    font-family: "StardewValley.ttf";
+    border: 1px solid #A7D7F9;
+    clear: both;
+    background-color: rgba(209,248,255,0.67);
+    width: 96%;
+    height: 1900px;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+#linia {
+    border-top: 1px solid rgba(81, 86, 87, 0.67);
+    margin-left:10px;
+    margin-right: 10px;
+    width: 141%;
+}
+.article {
+    font-size:160%;
+    width: 70%;
+    float: left;
+}
+.article1 {
+    float: right;
+    padding-top: 1px;
+    padding-right: 2%;
+}
+.article2{
+    font-size:140%;
+    width: 70%;
+    float: left;
+}
+.article3{
+    font-size:160%;
+    width: 70%;
+    float: left;
+}
+.article4 {
+    clear: both;
+    font-size:140%;
+    width: 100%;
+    float: left;
+}
+table {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    background-color: rgba(255,255,255,0.58);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+ 
+}
+
+th {
+    border-radius: 10px;
+    background-color: rgb(34, 185, 34);    
+    border: 1px solid rgba(34, 185, 34, 0.5);
+  
+}
+#LOL {
+    padding-left: 10px;
+    padding-right: 50px;
+}
+td {
+   
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    padding-top: 5px;
+}
+.article5 {
+    font-size:160%;
+    width: 70%;
+    float: left;
+}
+.article6 {
+    clear: both;
+    font-size:140%;
+    width: 100%;
+    float: left;
+}
+#w {
+    text-align: center;
+    padding-left: 10PX;
+    padding-right: 10PX;
+}
+
+#boob1 {
+    text-align: center;
+}
+
+
+
+
+#logo a{
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+    padding-left: 5px;
+}
+.footer {
+    color:white;
+    float: left;
+    clear:both;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width:  12%;
+    height: 40px;
+}
+.footer1 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width: 88%;
+    height: 40px;
+}
+.footer2 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width:  7%;
+    height: 30px;
+    padding-bottom: 26px;
+}
+.footer3 {
+    color:white;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    font-size: 110%;
+    width: 93%;
+    padding-bottom: 0px;
+}
